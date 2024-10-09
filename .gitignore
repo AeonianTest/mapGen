@@ -1,0 +1,17 @@
+#The generated content
+/test.dSYM
+test/
+test
+*.o
+
+#Version control system files
+*.git
+
+#Old code
+old/
+
+#Mac specific files
+*.DS_Store
+
+# IDE-specific files
+*.vscode/
